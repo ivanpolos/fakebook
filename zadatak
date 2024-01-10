@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Ovo je title weba</title>
+
+    </head>
+    <body>
+        <h1><i>FAKEBOOK</i></h1>
+        Search: <input type="text" placeholder="Search by name">
+        <h2>Ivan Polonijo</h2>
+        <img src="C:\Users\Polo\Pictures\filinic cijene.jpg" alt="me" width="500" height="600">
+    </body>
+</html>
